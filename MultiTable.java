@@ -1,3 +1,4 @@
+package day05;
 //九九乘法表
 public class MultiTable {
 	public static void main(String[] args) {
